@@ -1,2 +1,34 @@
+
 # passNinja
-This is a MERN application which stores your passwords for you
+
+A full stack web application which takes input as website name, username and password and stores it in the databse.Made using React for frontend, Express.Js for backend and MongoDB as database for storing the passwords and Vite is used for the server.
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/viraj-ap/passNinja.git
+```
+
+
+Install dependencies
+
+```bash
+  npm install or npm i
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+make sure you have your own MONGO_URI and local host port.
+
+
+## Screenshots
+![alt text](image.png)
+
+
+
