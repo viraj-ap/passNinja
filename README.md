@@ -28,7 +28,7 @@ make sure you have your own MONGO_URI and local host port.
 
 
 ## Screenshots
-![alt text](image.png)
+![alt text](passNinja/image.png)
 
 
 
